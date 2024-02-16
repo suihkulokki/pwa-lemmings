@@ -1,0 +1,26 @@
+{
+  "name": "lemmings",
+  "start_url": "index.html",
+  "description": "A PWA port of DHTML Lemmings",
+  "version": "0.3.0",
+  "developer": {
+    "name": "pancake",
+    "url": "http://github.com/radare/fxos-app-lemmings/"
+  },
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "icons": [
+   {
+    "sizes": "64x64",
+    "src": "icon/64.png"
+   },
+   {
+   "sizes": "128x128",
+    "src": "icon/128.png"
+   },
+   {
+   "sizes": "256x256",
+   "src": "icon/256.png"
+   }
+  ]
+}
