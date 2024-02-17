@@ -1,11 +1,11 @@
 DHTML Lemmings
 ==============
 
-This game is licensed under GPL and written by crisp (freesoftware@xs4all.nl) in 2004
+This repository is an updated version with a PWA manifest for the mobile web in 2024.
 
-This repository is an updated version to make use of newer technologies and adapt to the web in 2014.
+It is forked from repository an updated version that made use of newer technologies and adapt to the web in 2014.
 
-It aims to support newer devices like mobile phones or tablets using:
+That version added support newer devices like mobile phones or tablets using:
 
 * HTML5 - avoid bad practices and use new standarized ones
 * Touch Events and scrollable panels
@@ -19,3 +19,6 @@ It aims to support newer devices like mobile phones or tablets using:
 The game is working but there's still lot of room for improvementso
 
 --pancake
+
+Original game is licensed under GPL and written by crisp (freesoftware@xs4all.nl) in 2004
+
